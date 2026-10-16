@@ -1,0 +1,14 @@
+[package]
+name = "epq-json"
+version = "0.1.0"
+description = "Strict JSON parse boundary and RFC 8785 (JCS) canonicalization for the EP canonicalization profile"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+thiserror.workspace = true
+
+[lints]
+workspace = true
