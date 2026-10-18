@@ -44,8 +44,10 @@ See [docs/CLEAN_ROOM_PROCEDURE.md](docs/CLEAN_ROOM_PROCEDURE.md).
 
 ## Disclosure
 
-Findings about the draft go privately to its authors first, and are published after they respond or
-after 45 days.
+Findings about the draft go privately to its authors first, under the authors' published disclosure
+policy where one exists. We publish only when that policy allows it: once a fix or clarified text is
+available, or once its disclosure window ends without one. Without such a policy, we publish no earlier
+than 45 days after first contact.
 
 ## What passing does not show
 

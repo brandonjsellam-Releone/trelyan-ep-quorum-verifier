@@ -46,7 +46,7 @@ Every disagreement in verdict or reason code is classified by reading the draft 
 
 ## 6. Disclosure
 
-- Findings go privately to the draft's authors first. We publish after they respond, or after 45 days.
+- Findings go privately to the draft's authors first, under the authors' published disclosure policy where one exists. We publish only when that policy allows it: once a fix or clarified text is available, or once its disclosure window ends without one. Without such a policy, we publish no earlier than 45 days after first contact.
 - Cases that would harm deployed systems wait until a fix or a clarified text exists.
 
 ## 7. AI use
