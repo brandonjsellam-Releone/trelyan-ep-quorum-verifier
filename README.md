@@ -44,10 +44,13 @@ See [docs/CLEAN_ROOM_PROCEDURE.md](docs/CLEAN_ROOM_PROCEDURE.md).
 
 ## Disclosure
 
-Findings about the draft go privately to its authors first, under the authors' published disclosure
-policy where one exists. We publish only when that policy allows it: once a fix or clarified text is
-available, or once its disclosure window ends without one. Without such a policy, we publish no earlier
-than 45 days after first contact.
+Suspected vulnerabilities in the draft go privately to its authors, under their published disclosure
+policy where one exists. We do not publish their details before a fix is available, unless the authors
+agree in writing or the policy's disclosure window ends with the issue unaddressed. Where no policy
+applies, we wait at least 90 days after our private report, unless the authors agree to an earlier date.
+
+Ambiguities, editorial points and verifier disagreements go to the authors first, and may be published
+afterwards. Anything we think may affect security is handled as a suspected vulnerability.
 
 ## What passing does not show
 
